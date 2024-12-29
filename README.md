@@ -64,7 +64,7 @@
 
 ## 📈 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RyomenDev&theme=blueberry&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true&layout=compact) 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RyomenDev&theme=blueberry&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true&layout=compact)
 <p align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=RyomenDev&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&include_all_commits=true" /> 
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=RyomenDev&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&include_all_commits=true"" />
