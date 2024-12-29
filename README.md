@@ -4,7 +4,7 @@
 ## <img src="https://em-content.zobj.net/source/skype/289/man-technologist_1f468-200d-1f4bb.png" height="30px" width="30px" align="center"/> What I'm upto:
 
 🌱 Ask me about **ReactJs**, **NodeJs** and **Databases**  
-⚡ Exploring **Python** and diving deep into **System design**  
+⚡ Exploring **Python** and diving into **System design**  
 👯 looking to collaborate with **Open Source Contributor**  
 
 ## 💻 Tech Stack:
