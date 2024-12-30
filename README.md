@@ -83,6 +83,9 @@
 - **Random Dev Quote:**  
   ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+- **My WakaTime Stats:**  
+  ![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=RyomenDev&theme=blueberry)
+  
 <p>
 <!-- - **My WakaTime Stats:**  
   ![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=RyomenDev&theme=blueberry)
