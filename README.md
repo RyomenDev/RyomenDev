@@ -10,13 +10,13 @@
 ## <img src="https://em-content.zobj.net/source/skype/289/man-technologist_1f468-200d-1f4bb.png" height="30px" width="30px" align="center"/> What I'm Up To:
 
 🌱 **Ask me about:** React.js, Node.js, Databases  
-⚡ **Currently Exploring:** Python, System Design, Open Source, Devops  
+⚡ **Currently Exploring:** Python, Django, System Design, Open Source, Devops  
 👯 **Looking to Collaborate:** Open-source projects and contributors  
 
 ---
 
 ## 💻 Tech Stack:
-<p align="center">
+  <p align="center">
     <!-- Frontend -->
     <img alt="React" src="https://img.shields.io/badge/react-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" />
     <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
@@ -27,15 +27,25 @@
     <!-- Databases -->
     <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B" />
     <img alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?&style=for-the-badge&logo=firebase&logoColor=white" />
+    <img alt="Redis" src="https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white" />
     <!-- Tools -->
     <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
     <img alt="Zustand" src="https://img.shields.io/badge/Zustand-%23CA74CA.svg?style=for-the-badge&logoColor=white" />
     <img alt="Stripe" src="https://img.shields.io/badge/stripe-%230A74DA.svg?&style=for-the-badge&logo=stripe&logoColor=white" />
     <img alt="RetellAI" src="https://img.shields.io/badge/retellAI-%23000000.svg?&style=for-the-badge&logo=retellAI&logoColor=white" />
+    <img alt="Swagger API" src="https://img.shields.io/badge/swagger-%2385EA2D.svg?&style=for-the-badge&logo=swagger&logoColor=black" />
+    <img alt="Socket.IO" src="https://img.shields.io/badge/socket.io-%23010101.svg?&style=for-the-badge&logo=socket.io&logoColor=white" />
+    <img alt="Elastic Stack" src="https://img.shields.io/badge/elastic%20stack-%2300057D.svg?&style=for-the-badge&logo=elastic-stack&logoColor=white" />
+    <img alt="Appwrite" src="https://img.shields.io/badge/Appwrite-F02E65?style=for-the-badge&logo=appwrite&logoColor=white" />
+    <img alt="Strapi" src="https://img.shields.io/badge/Strapi-%23008CDD.svg?style=for-the-badge&logo=strapi&logoColor=white" />
+    <img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+    <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white" />
     <!-- Language -->
+    <img alt="Python" src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
     <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" />
     <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
 </p>
+
 
 ---
 
